@@ -4,7 +4,7 @@ An interactive Power BI dashboard analyzing Virat Kohli's performance across Tes
 
 ## 📌 Project Overview
 
-This project is an interactive Power BI dashboard developed to analyze Virat Kohli's batting performance across different cricket formats. The dashboard enables users to explore career statistics through dynamic filters and visualizations.
+This project is an interactive Power BI dashboard developed to analyze Virat Kohli's batting performance across different cricket formats from 2008 to 2026.  The dashboard enables users to explore career statistics through dynamic filters and visualizations.
 
 ---
 
