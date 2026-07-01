@@ -58,8 +58,7 @@ The objective of this project is to transform raw cricket statistics into meanin
 ---
 
 ## 📷 Dashboard Preview
-![Virat Kohli Dashboard]
-(./Viratss.png)
+![Virat Kohli Dashboard](./viratss.png)
 
 
 ---
